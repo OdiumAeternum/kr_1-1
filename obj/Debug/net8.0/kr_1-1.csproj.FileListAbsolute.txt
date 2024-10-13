@@ -1,0 +1,14 @@
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\bin\Debug\net8.0\kr_1-1.exe
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\bin\Debug\net8.0\kr_1-1.deps.json
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\bin\Debug\net8.0\kr_1-1.runtimeconfig.json
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\bin\Debug\net8.0\kr_1-1.dll
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\bin\Debug\net8.0\kr_1-1.pdb
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.AssemblyInfoInputs.cache
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.AssemblyInfo.cs
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.dll
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\refint\kr_1-1.dll
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.pdb
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\kr_1-1.genruntimeconfig.cache
+C:\Users\HOME\Documents\HERZEN_HERZEN_HERZEN\3 курс\kr_1-1\obj\Debug\net8.0\ref\kr_1-1.dll
